@@ -20,3 +20,18 @@ The objective was to identify revenue drivers, customer purchasing patterns, and
 - Monthly & Yearly Sales Trends
 - Purchase Frequency
 
+- ## Project Structure
+- /sql_scripts  
+  - Data exploration queries  
+  - Aggregations and joins  
+- /power_bi  
+  - Power BI dashboard (.pbix)
+- /screenshots  
+  - Dashboard visuals
+
+## Dashboard pages
+1. Revenue Performance Overview
+2. Order & Demand Analysis
+3. Customer Spending Behavior Analysis
+
+
