@@ -63,6 +63,8 @@ The dashboard enables stakeholders to:
 ![Order Performance 2](https://github.com/user-attachments/assets/6b67ae16-fde5-49f7-a6a8-cacc54da6fb2)
 ![Customer behavior analysis 2](https://github.com/user-attachments/assets/6e637ba4-b500-4d41-9898-6801f022b5ae)
 
+## Final Conclusion:
+Customer spending behavior is stable over time, with growth driven by more customers and higher purchase frequency rather than increased spend per transaction. While customer retention is strong, revenue is highly concentrated among a small group of customers, artists, genres (especially Rock), and regions, creating both risk and opportunity. 2019 stands out as a benchmark year, and sustainable growth will depend on customer acquisition, protecting high-value segments, and diversifying revenue sources.
 
    
 
