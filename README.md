@@ -59,6 +59,9 @@ The dashboard enables stakeholders to:
 - Track trends over time
 
 ## Dashboard Preview
+![Executive Overview 1](https://github.com/user-attachments/assets/dc26fc58-8d26-4ede-9f8f-60ccbdb7cb08)
+![Order Performance 2](https://github.com/user-attachments/assets/6b67ae16-fde5-49f7-a6a8-cacc54da6fb2)
+![Customer behavior analysis 2](https://github.com/user-attachments/assets/6e637ba4-b500-4d41-9898-6801f022b5ae)
 
 
    
