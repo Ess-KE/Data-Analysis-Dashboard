@@ -41,6 +41,26 @@ The objective was to identify revenue drivers, customer purchasing patterns, and
 3. Customer Spending Behavior Analysis
    <a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Customer%20behavior%20analysis.jpeg"> View Customer Behavior </a>
    *Deep-dive into customer value, AOV trends, frequency, and revenue concentration.*
+
+   ## Key Insights
+- Revenue trends closely mirrored order trends, indicating volume-driven growth.
+- Average Order Value remained stable year-over-year (-0.34%), suggesting consistent customer spending behavior. The slight downward trend, indicates mild price sensitivity or lower-value purchases.
+- A small group of top customers contributes a significant share of total revenue, indicating revenue concentration risk.
+- The store’s revenue is heavily driven by a single genre, Rock.
+- Artist sales follow a power-law distribution, where a few artists generate most revenue.
+- 2019 represents a performance peak across multiple KPIs, followed by a decline in 2020.
+- The customer base is relatively small, but engagement is high.
+
+## Business Value
+The dashboard enables stakeholders to:
+- Monitor sales performance
+- Identify high-value customers
+- Optimize product and marketing strategies
+- Track trends over time
+
+## Dashboard Preview
+
+
    
 
 
