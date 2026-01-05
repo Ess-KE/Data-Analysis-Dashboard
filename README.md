@@ -31,8 +31,9 @@ The objective was to identify revenue drivers, customer purchasing patterns, and
 
 ## Dashboard pages
 1. Revenue Performance Overview
-2. Order & Demand Analysis
-3. Customer Spending Behavior Analysis
+<a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Executive%20Overview.jpeg"> View Executive Overview</a>
+3. Order & Demand Analysis
+4. Customer Spending Behavior Analysis
    <a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Customer%20behavior%20analysis.jpeg"> View Customer Behavior </a>
    
 
