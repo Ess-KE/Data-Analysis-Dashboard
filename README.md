@@ -12,4 +12,11 @@ The objective was to identify revenue drivers, customer purchasing patterns, and
 - How concentrated is revenue among top customers?
 - How does customer spending behavior change year-over-year?
 
+## Key Metrics
+- Total Revenue
+- Total Customers
+- Total Orders
+- Average Order Value (AOV)
+- Monthly & Yearly Sales Trends
+- Purchase Frequency
 
